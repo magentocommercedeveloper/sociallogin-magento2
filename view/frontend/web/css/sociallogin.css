@@ -1,0 +1,28 @@
+.social-login-buttons {
+    text-align: center;
+    margin: 20px 0;
+}
+
+.social-button {
+    display: inline-block;
+    margin: 10px;
+    padding: 10px 20px;
+    color: #fff;
+    text-decoration: none;
+    border-radius: 5px;
+}
+
+.facebook-button {
+    background-color: #3b5998;
+}
+
+.google-button {
+    background-color: #db4437;
+    color: white !important;
+    text-decoration: none !important;
+}
+
+.facebook-button {
+    color: white !important;
+    text-decoration: none !important;
+}
